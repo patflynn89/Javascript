@@ -3,3 +3,7 @@ h1 {
     text-align: center;
 }
 
+#calculatorFrame {
+    border: 10px;
+}
+
