@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    alert("griaßde");
+    alert("test");
     function result(first) {
         return (first+3);
     }
