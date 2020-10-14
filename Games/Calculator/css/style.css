@@ -4,6 +4,23 @@ h1 {
 }
 
 #calculatorFrame {
-    border: 10px;
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height: 280px;
+    padding: 20px;
+    position: relative;
+    left: 3rem;
+    top: 1rem;
+    border-radius: 10px; 
+}
+
+#headingCalc {
+    text-align: center;
+}
+
+#buttons {
+    background-color: gray;
+    margin: 3px 1px 5px;
 }
 
